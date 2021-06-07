@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Sion Smallman - Cardiff University - Advanced Computer Science MSc
+## Dissertation project - App for learning to pronounce Welsh
 
-You can use the [editor on GitHub](https://github.com/SionSmallman/diss-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Motivation
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Even if one is not interested in fully learning how to speak Welsh, it can still be useful to know how to pronounce common Welsh names and words. In everyday life, one often encounters small pieces of Welsh text or placenames (for instance on signs) of which someone without knowledge of Welsh has very little idea on how to pronounce it. To deal with this, the idea is to develop a smartphone app which (1) can use the phone's camera to determine (OCR) the text on the sign and (2) uses Welsh speech synthesis to show how to pronounce it. The advantage of this is that it would allow one to learn Welsh pronunciation in a natural way, based on what one encounters in everyday life. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SionSmallman/diss-test/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
